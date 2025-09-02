@@ -18,7 +18,7 @@ Visualizations (4 Charts):
 
 🔵 Scatter Plot: Relationship between book prices and number of books (right-skewed).
 
-📊 Column Chart: User ratings distribution (interactive).
+📊 Column Chart: User ratings distribution .
 
 Slicers for Interactivity:
 
@@ -49,4 +49,5 @@ Total Number of Reviews
 📖 Genre Engagement: Fiction books receive more reviews (57%) compared to non-fiction (43%).
 
 🛠️ Built with: Microsoft Excel | Pivot Tables | Charts | Slicers | Forecasting
-📁 Dataset: Amazon Book Sales (custom or public source)
+📁 Dataset: Amazon Book Sales piblic source
+
